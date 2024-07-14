@@ -2,4 +2,4 @@ gereksiz.txt
 dizin.txt
 
 yol/*
-yol/yol2.txt 
+!yol/yol2.txt 
